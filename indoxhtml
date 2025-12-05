@@ -1,0 +1,28 @@
+
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>MR HAMZA Social Links</title>
+<style>
+  body { font-family: Arial, sans-serif; padding: 20px; background: #f9f9f9; text-align: center; }
+  h1 { color: #333; }
+  ul { list-style: none; padding: 0; max-width: 400px; margin: 0 auto; }
+  li { margin: 15px 0; background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+  a { text-decoration: none; color: #0066cc; font-weight: bold; }
+  a:hover { text-decoration: underline; }.contact { margin-top: 20px; font-weight: bold; color: #333; background: white; padding: 10px; border-radius: 8px; display: inline-block; }
+</style>
+</head>
+<body>
+<h1>MR HAMZA's Social Media</h1>
+<ul>
+  <li><a href="https://whatsapp.com/channel/0029VbBMnPm8V0tv43vCQZ14" target="_blank">WhatsApp Channel: MR HAMZA</a></li>
+  <li><a href="https://t.me/solanginawaz" target="_blank">Telegram ID: PSYCHO</a></li>
+  <li><a href="https://www.tiktok.com/@alihamza_solangi" target="_blank">TikTok: Ali Hamza</a></li>
+  <li><a href="https://youtube.com/@hamzajaan-y9s?si=V5JHmpf82R4_kJXh" target="_blank">YouTube Channel: HAMZA JAAN</a></li>
+  <li><a href="https://www.instagram.com/nawaz_sol_gi/?hl=en" target="_blank">Instagram: NAWAZ SOLANGI</a></li>
+  <li><a href="https://www.facebook.com/gulnawazsolangII" target="_blank">Facebook: GUL NAWAZ</a></li>
+</ul>
+<div class="contact">WhatsApp Number: GUL NAWAZ<br>+92 308 373 0080</div>
+</body>
+</html>
